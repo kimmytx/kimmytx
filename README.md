@@ -1,10 +1,11 @@
 <p align="center">
   <img
-    src="https://i.pinimg.com/736x/ff/8b/e3/ff8be3cdff24dd6b7b18ee45bb2b4295.jpg"
-    width="1600"
-    height="250"
+    src="https://i.pinimg.com/736x/55/25/9a/55259a660d54af15267578aeaa25db4c.jpg"
+    width="1000"
+    height="350"
   />
 </p>
+
 
 
  <h1 align="center">Hi humans, I'm Marielle Pablo</h1>
