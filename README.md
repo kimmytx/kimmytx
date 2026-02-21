@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=25&color=FF69B4&width=800&lines=illegal gois" />
-</p>
-
 
 
 <p align="center">
